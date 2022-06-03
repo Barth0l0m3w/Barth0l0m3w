@@ -1,11 +1,11 @@
-<h1 align="left">Hello There 👋, I'm Nathalie Hogenberg</h1>
-<h3 align="left">Creative Media and Gaming Technologies student</h3>
+## Hello There 👋, I'm Nathalie Hogenberg 
+## Creative Media and Gaming Technologies student 
   
 - 🌱 I’m currently learning **c#, html, CSS**
-  
 - 📫 How to reach me **nhogenberg@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/nathalie-hogenberg-0a62ba234" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathalie hogenberg" height="30" width="40" /></a>
 <a href="https://fb.com/nathalie.hogenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nathalie hogenberg" height="30" width="40" /></a>
