@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathalie Hogenberg</h1>
+<h1 align="center">Hello There 👋, I'm Nathalie Hogenberg</h1>
 <h3 align="center">Creative Media and Gaming Technologies student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barth0l0m3w" alt="barth0l0m3w" /></a> </p>
