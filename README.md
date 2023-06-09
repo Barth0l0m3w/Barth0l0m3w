@@ -1,5 +1,4 @@
-## Hello There 👋, I'm Nathalie Hogenberg 
-## Creative Media and Gaming Technologies student 
+## Hello There 👋, my name is Nathalie Hogenberg and I’m a game programming student at Saxion, Creative Media and gaming technologies. I love programming and getting better at it through group projects. I love Woking in dedicated teams and finding new and better ways to code. At the moment my focus lies on C#, but I’m excited to learn many more languages in the future.
   
 - 🌱 I’m currently learning **c#, html, CSS**
 - 📫 How to reach me **nhogenberg@hotmail.com**
