@@ -1,5 +1,5 @@
 ## Hello There 👋, 
-My name is Nathalie Hogenberg and I’m a game programming student at Saxion, Creative Media and Game Technologies. I love programming and getting better at it through group projects. I love working in dedicated teams and finding new and better ways to code. At the moment my focus lies on C# and c++, but I’m excited to learn many more languages in the future. I also have a love for creative workflow and looking at how i can expand my artistic capabilities. currently I'm also looking at how i can combine art and engineering through personal projects. 
+My name is Nathalie Hogenberg and I’m a game programming student at Saxion, Creative Media and Game Technologies. I love programming and getting better at it through group projects. I love working in dedicated teams and finding new and better ways to code. At the moment my focus lies on C# and C++, but I’m excited to learn many more languages in the future. I also have a love for creative workflow and looking at how I can expand my artistic capabilities. currently I'm also looking at how I can combine art and engineering through personal projects. 
   
 - 🌱 I’m currently learning **C#, C++, HTML, CSS, Blender and Substance Designer 3D.**
 - 📫 How to reach me **nhogenberg@hotmail.com**
