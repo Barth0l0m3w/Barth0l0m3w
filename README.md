@@ -9,7 +9,7 @@ My name is Nathalie Hogenberg and I’m a game programming student at Saxion, Cr
 <p align="left">
 <a href="https://linkedin.com/in/nathalie-hogenberg-0a62ba234" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathalie hogenberg" height="30" width="40" /> </a>
 <a href="https://www.youtube.com/channel/UCljJRu75hBzzbpDM9eKjZaA" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nathalie hogenberg" height="30" width="40" /> </a>
-<a href="https://nathalie-hogenberg.itch.io" target="blank"><img align="left" src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-6n1nulpw.png" alt="nathalie hogenberg" height="30" width="30" /> </a> 
+<a href="https://nathalie-hogenberg.itch.io" target="blank"><img align="left" src="https://github.com/itchio/itch/blob/master/src/static/images/logos/app-white.svg" alt="nathalie hogenberg" height="70" width="70" /> </a> 
 <br>
 </p>
 
