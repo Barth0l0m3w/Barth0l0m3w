@@ -26,6 +26,5 @@ My name is Nathalie Hogenberg and I’m a game programming student at Saxion, Cr
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barth0l0m3w&show_icons=true&locale=en&layout=compact" alt="barth0l0m3w" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=barth0l0m3w&" alt="barth0l0m3w" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barth0l0m3w&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
