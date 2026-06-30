@@ -21,3 +21,4 @@ My name is Nathalie Hogenberg and I’m a game programming graduate at Saxion, C
 [![My Skills](https://skillicons.dev/icons?i=unity,clion,rider,cs,cpp,blender,xd,figma)](https://skillicons.dev)
 
 <br>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Barth0l0m3w&theme=dracula&show_ring=false&hide_border=true&border_radius=25&hide=hours%2Cfollowers%2Cissues%2Cprs)
