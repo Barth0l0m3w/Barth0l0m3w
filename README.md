@@ -1,5 +1,5 @@
-## Hello There 👋, 
-My name is Nathalie Hogenberg and I’m a game programming student at Saxion, Creative Media and Game Technologies. I love programming and getting better at it through group projects. I love working in dedicated teams and finding new and better ways to code. At the moment my focus lies on C# and C++, but I’m excited to learn many more languages in the future. I also have a love for creative workflow and looking at how I can expand my artistic capabilities. currently I'm also looking at how I can combine art and engineering through personal projects. 
+## Hello There 👋
+My name is Nathalie Hogenberg and I’m a game programming graduate at Saxion, Creative Media and Game Technologies. I love programming and getting better at it through group projects. I love working in dedicated teams and finding new and better ways to code. At the moment my focus lies on C# and C++, but I’m excited to learn many more languages in the future. I also have a love for creative workflow and looking at how I can expand my artistic capabilities. currently I'm also looking at how I can combine art and engineering through personal projects. 
   
 - 🌱 I’m currently learning **C#, C++, HTML, CSS, Blender and Substance Designer 3D.**
 - 📫 How to reach me **nhogenberg@hotmail.com**
@@ -19,12 +19,3 @@ My name is Nathalie Hogenberg and I’m a game programming student at Saxion, Cr
 ## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=unity,clion,rider,cs,cpp,blender,xd,figma)](https://skillicons.dev)
-
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barth0l0m3w" alt="barth0l0m3w" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barth0l0m3w&show_icons=true&locale=en&layout=compact" alt="barth0l0m3w" /></p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barth0l0m3w&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
