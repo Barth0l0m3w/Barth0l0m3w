@@ -20,7 +20,4 @@ My name is Nathalie Hogenberg and I’m a game programming graduate at Saxion, C
 
 [![My Skills](https://skillicons.dev/icons?i=unity,clion,rider,cs,cpp,blender,xd,figma)](https://skillicons.dev)
 
-
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barth0l0m3w)](https://github.com/anuraghazra/github-readme-stats)
