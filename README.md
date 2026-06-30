@@ -20,4 +20,3 @@ My name is Nathalie Hogenberg and I’m a game programming graduate at Saxion, C
 
 [![My Skills](https://skillicons.dev/icons?i=unity,clion,rider,cs,cpp,blender,xd,figma)](https://skillicons.dev)
 
-<br>
